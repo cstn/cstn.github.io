@@ -8,7 +8,7 @@ layout: home
 > I am a Front-end engineer for JavaScript Applications.
 
 I help people to build scalable web applications.
-I like JavaScript, React and Node.js.
+I like JavaScript, TypeScript, React and Node.js.
 
 ## Demo
 
@@ -22,4 +22,3 @@ Please allow the free demo to come up.
   Code conventions for JavaScript projects
 * [rocklab-utils](https://github.com/cstn/rocklab-utils): Utilities for React and Redux based projects
 * [rocklab-validation](https://github.com/cstn/rocklab-validation): Input validation
-* [rocklab-service-template](https://github.com/cstn/rocklab-service-template): A project template for (micro)services with express
