@@ -10,12 +10,6 @@ layout: home
 I help people to build scalable web applications.
 I like JavaScript, TypeScript, React and Node.js.
 
-## Demo
-
-[app.rocklab.de](http://app.rocklab.de)
-
-Please allow the free demo to come up.
-
 ## Repositories
 
 * [rocklab-javascript](https://github.com/cstn/rocklab-javascript):
