@@ -19,6 +19,7 @@ I like JavaScript, TypeScript, React.js, Next.js and Node.js.
 
 * [advent of code](https://github.com/cstn/adventofcode)
   My solutions to the [Advent of Code](https://adventofcode.com/) challenges
+
 ## Deprecated
 
 * [rocklab-javascript](https://github.com/cstn/rocklab-javascript):
